@@ -55,3 +55,14 @@ Used library:
 
 [![imageban](https://i4.imageban.ru/out/2023/01/21/f8a2f164bfce39a29bcb425dbceb9794.png)](https://imageban.ru)
 
+### RIOT-style
+
+Used library:
+
+* b2p
+* botva2
+* WinTB
+
+[![imageban](https://i3.imageban.ru/out/2022/11/01/89ffdc6dc71c8b065e0b5cbfcce1a73a.png)](https://imageban.ru)
+[![imageban](https://i5.imageban.ru/out/2022/11/01/7de39e5f6b5ba13d7e4fdda32a6b3da6.png)](https://imageban.ru)
+[![imageban](https://i6.imageban.ru/out/2022/11/01/232dde7c8c5081298e0fcc25076cbfdb.png)](https://imageban.ru)
