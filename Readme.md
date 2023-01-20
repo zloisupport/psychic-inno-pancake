@@ -34,9 +34,9 @@ Used library:
 * Layered
 * WinTB
 
-[![imageban](https://i4.imageban.ru/thumbs/2023.01.20/cd3d36160cd8168af7237d4df81b17a1.png)](https://imageban.ru/show/2023/01/20/cd3d36160cd8168af7237d4df81b17a1/png)
-
-[![imageban](https://i1.imageban.ru/thumbs/2023.01.20/73fa6e5c5c142f75386f7b7af249ee71.png)](https://imageban.ru/show/2023/01/20/73fa6e5c5c142f75386f7b7af249ee71/png)
+[![imageban](https://i4.imageban.ru/out/2023/01/20/cd3d36160cd8168af7237d4df81b17a1.png)](https://imageban.ru)
+[![imageban](https://i1.imageban.ru/out/2023/01/20/73fa6e5c5c142f75386f7b7af249ee71.png)](https://imageban.ru)
+[![imageban](https://i5.imageban.ru/out/2023/01/20/c1a183cf92038d88ea47cbc37ac77107.png)](https://imageban.ru)
 
 ### OverWolf-style
 
@@ -46,7 +46,6 @@ Used library:
 * botva2
 * WinTB
 
-[![imageban](https://i5.imageban.ru/thumbs/2023.01.20/c1a183cf92038d88ea47cbc37ac77107.png)](https://imageban.ru/show/2023/01/20/c1a183cf92038d88ea47cbc37ac77107/png)
 
 
 [![imageban](https://i4.imageban.ru/out/2023/01/21/b0436eeb7a7b6217c03856812e7ced93.png)](https://imageban.ru)
