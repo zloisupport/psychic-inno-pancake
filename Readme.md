@@ -38,5 +38,21 @@ Used library:
 
 [![imageban](https://i1.imageban.ru/thumbs/2023.01.20/73fa6e5c5c142f75386f7b7af249ee71.png)](https://imageban.ru/show/2023/01/20/73fa6e5c5c142f75386f7b7af249ee71/png)
 
+### OverWolf-style
+
+Used library:
+
+* b2p
+* botva2
+* WinTB
 
 [![imageban](https://i5.imageban.ru/thumbs/2023.01.20/c1a183cf92038d88ea47cbc37ac77107.png)](https://imageban.ru/show/2023/01/20/c1a183cf92038d88ea47cbc37ac77107/png)
+
+
+[![imageban](https://i4.imageban.ru/out/2023/01/21/b0436eeb7a7b6217c03856812e7ced93.png)](https://imageban.ru)
+
+
+[![imageban](https://i1.imageban.ru/out/2023/01/21/50ef57a76fb94b387755fedd9f18b9f8.png)](https://imageban.ru)
+
+[![imageban](https://i4.imageban.ru/out/2023/01/21/f8a2f164bfce39a29bcb425dbceb9794.png)](https://imageban.ru)
+
